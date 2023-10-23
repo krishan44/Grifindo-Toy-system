@@ -1,0 +1,18 @@
+D:\Esoft\Programming\system\Programming 2\Programming 2\bin\Debug\Programming 2.exe
+D:\Esoft\Programming\system\Programming 2\Programming 2\bin\Debug\Programming 2.pdb
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming 2.csproj.AssemblyReference.cache
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Salary.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Properties.Resources.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming 2.csproj.GenerateResource.cache
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming 2.csproj.CoreCompileInputs.cache
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming 2.exe
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming 2.pdb
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.setting.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Employee.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.User.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Report.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Overall.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Monthly.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.AllEemp.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Login.resources
+D:\Esoft\Programming\system\Programming 2\Programming 2\obj\Debug\Programming_2.Main.resources

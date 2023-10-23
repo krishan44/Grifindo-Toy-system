@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Hopstarter-Soft-Scraps-Button-Next.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Soft-Scraps-Button-Next.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Aha-Soft-Large-Seo-SEO.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Aha-Soft-Large-Seo-SEO.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-7-Save3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-7-Save.2563.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-window-close1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.2561.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hopstarter-Soft-Scraps-Zoom1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Soft-Scraps-Zoom.256 (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="169860bbc6e55afa2f6ba2ec4f064ae2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\169860bbc6e55afa2f6ba2ec4f064ae2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2562.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2563.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-window-close2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.2562.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-9-Edit-validated1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-9-Edit-validated.2561.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="360_F_498214787_yOgJ7XlXnL18wzW5B8TgOXXWEqBZ69DX1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\360_F_498214787_yOgJ7XlXnL18wzW5B8TgOXXWEqBZ69DX1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hopstarter-Sleek-Xp-Basic-Money.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Sleek-Xp-Basic-Money.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-window-close3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.2563.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iynque-Ios7-Style-Settings.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Iynque-Ios7-Style-Settings.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="v546batch3-mynt-34-badgewatercolor_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\v546batch3-mynt-34-badgewatercolor_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-9-Edit-validated2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-9-Edit-validated.2562.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2564.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-7-Save.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-7-Save.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hopstarter-Soft-Scraps-Zoom.256 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Soft-Scraps-Zoom.256 (1).png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2561.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-window-close.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2565.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hopstarter-Soft-Scraps-Zoom3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Soft-Scraps-Zoom.256 (1)3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-7-Save2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-7-Save.2562.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-window-close4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.2564.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-window-close5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.2565.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Toys-with-paper-background-vectors-06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toys-with-paper-background-vectors-06.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2566.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="360_F_498214787_yOgJ7XlXnL18wzW5B8TgOXXWEqBZ69DX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\360_F_498214787_yOgJ7XlXnL18wzW5B8TgOXXWEqBZ69DX.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-7-Save1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-7-Save.2561.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-maple-autumn-leaves-fall-background-picture-image_629748" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-maple-autumn-leaves-fall-background-picture-image_629748.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hopstarter-Sleek-Xp-Basic-Preppy.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Sleek-Xp-Basic-Preppy.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphicloads-100-Flat-2-Arrow-back7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2567.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-9-Edit-validated3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-9-Edit-validated.2563.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Custom-Icon-Design-Pretty-Office-9-Edit-validated.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Custom-Icon-Design-Pretty-Office-9-Edit-validated.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hopstarter-Soft-Scraps-Zoom2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hopstarter-Soft-Scraps-Zoom.256 (1)2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Oxygen-Icons.org-Oxygen-Actions-user-group-new.256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Oxygen-Icons.org-Oxygen-Actions-user-group-new.256.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abstract-colorful-shapes-background-design-trendy-wave-background-template-for-banner-poster-flyer-web-presentation-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abstract-colorful-shapes-background-design-trendy-wave-background-template-for-banner-poster-flyer-web-presentation-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6b399f329a1f1d1024e5a804c0a7ca48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6b399f329a1f1d1024e5a804c0a7ca48.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Graphicloads-100-Flat-2-Arrow-back8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphicloads-100-Flat-2-Arrow-back.2568.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
